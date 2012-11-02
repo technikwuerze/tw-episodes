@@ -1,4 +1,8 @@
-folgen
+# Folgen
+
 ======
 
-Alle Shownotes zu den einzelnen Sendungen
+Hier sammeln wir die Shownotes zu den einzelnen Folgen.
+
+Feedback bitte an:
+echo@technikload.de
