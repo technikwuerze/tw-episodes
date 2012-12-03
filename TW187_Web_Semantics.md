@@ -1,10 +1,15 @@
 # Web Semantics
 
-## Leadtext
+## Teilnehmer
+
+* David Maciejewski
+* Matthias Pfefferle
+
+## Beschreibung
 
 Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google baut auf Schema.org... Aber was von den vielen Meta und Web-Semantiken braucht man nun wirklich?
 
-## Inhalt
+## Überblick
 
 * Staffel 5 – Warum dauert das immer so lange bei euch?
 * OpenWeb-Podcast nun Bestandteil von Technikwürze (Themen)
