@@ -16,13 +16,29 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 * Allgemeines
 	* OpenWeb-Podcast nun Bestandteil von Technikwürze (Themen)
 	* Technikwürze auf Github (neue Themen vorschlagen und an Folgen mitarbeiten)
-	* Twitter Cards (Beispiel t3n.de)
-** Instagram entfernt Twitter-Cards
-* Microformats v2
-* Microdata/RDFa und Schema.org
-* OpenGraph Protocol (Artikel auf t3n.de / SocialMediaEnhancer )
-* Dublin Core
-* klassische Meta-Tags
+* Einleitung
+	* Instagram entfernt Twitter-Cards
+		* Twitter Cards (Beispiel t3n.de)
+* Überblick
+	* Warum die eigenen Versionen und kein DC, MF oder klassische Meta-Tags?
+	* Twitter Cards
+	* Schema.org
+	* Open Graph
+* Open Graph sollte als Meta-Information ausreichen
+* Schema.org macht auch sinn, aber aufpassen bei Google+ (Google nimmt immer das erste Objekt
+
+* Suchmaschinenoptimierung
+	* Schema.org macht für Suchen sinn (Google, Yahoo, Bing)
+
+* Überblick über sonstige Formate
+	* Microformats v2
+	* Microdata/RDFa und Schema.org
+	* OpenGraph Protocol (Artikel auf t3n.de / SocialMediaEnhancer )
+	* Dublin Core
+	* klassische Meta-Tags
+
+== Alt ==
+
 * Unterschied Websemantiken und Meta-Informationen
 	* Websemantiken
 		* Microformats und Schema.org zeichnen “sichtbare” Informationen aus
