@@ -26,10 +26,8 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 	* Open Graph
 * Open Graph sollte als Meta-Information ausreichen
 * Schema.org macht auch sinn, aber aufpassen bei Google+ (Google nimmt immer das erste Objekt
-
 * Suchmaschinenoptimierung
 	* Schema.org macht für Suchen sinn (Google, Yahoo, Bing)
-
 * Überblick über sonstige Formate
 	* Microformats v2
 	* Microdata/RDFa und Schema.org
