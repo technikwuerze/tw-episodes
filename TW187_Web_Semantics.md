@@ -37,7 +37,7 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 	* Dublin Core
 	* klassische Meta-Tags
 
-== Alt ==
+## Alt
 
 * Unterschied Websemantiken und Meta-Informationen
 	* Websemantiken
