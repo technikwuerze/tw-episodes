@@ -11,15 +11,16 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 
 ## Überblick
 
+* Mittwald-Vorstellung
 * Staffel 5 – Warum dauert das immer so lange bei euch?
 * Allgemeines
 	* OpenWeb-Podcast nun Bestandteil von Technikwürze (Themen)
 	* Technikwürze auf Github (neue Themen vorschlagen und an Folgen mitarbeiten)
-	* Instagram entfernt Twitter-Cards
+	* Twitter Cards (Beispiel t3n.de)
+** Instagram entfernt Twitter-Cards
 * Microformats v2
-* Twitter Cards
 * Microdata/RDFa und Schema.org
-* OpenGraph Protocol
+* OpenGraph Protocol (Artikel auf t3n.de / SocialMediaEnhancer )
 * Dublin Core
 * klassische Meta-Tags
 * Unterschied Websemantiken und Meta-Informationen
