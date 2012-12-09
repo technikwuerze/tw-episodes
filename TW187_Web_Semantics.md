@@ -1,4 +1,4 @@
-# Web Semantics
+# Metainformationen / Semantisches Web
 
 ## Teilnehmer
 
@@ -11,11 +11,12 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 
 ## Überblick
 
-* Mittwald-Vorstellung
-* Staffel 5 – Warum dauert das immer so lange bei euch?
-* Allgemeines
-	* OpenWeb-Podcast nun Bestandteil von Technikwürze (Themen)
-	* Technikwürze auf Github (neue Themen vorschlagen und an Folgen mitarbeiten)
+* Kurzer Themenüberlick
+* Vorstellung Matthias / OpenWeb-Podcast
+* Neue Folgen von Technikwürze, Vorstellung Mittwald, Themen und Ideen auf GitHub
+ * "Alle neuen Folgen, Behind the Scenes":https://github.com/technikwuerze/folgen
+ * "Pool zum Sammeln von Ideen und Themen":https://github.com/technikwuerze/themen
+
 * Einleitung
 	* Instagram entfernt Twitter-Cards
 		* Twitter Cards (Beispiel t3n.de)
