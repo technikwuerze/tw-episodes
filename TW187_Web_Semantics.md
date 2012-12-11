@@ -23,7 +23,6 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 * Überblick
 	* Warum die eigenen Versionen und kein DC, MF oder klassische Meta-Tags?
 	* Twitter Cards
-	* Schema.org
 	* Open Graph
 * Open Graph sollte als Meta-Information ausreichen
 * Schema.org macht auch sinn, aber aufpassen bei Google+ (Google nimmt immer das erste Objekt
@@ -35,6 +34,10 @@ Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google 
 	* OpenGraph Protocol (Artikel auf t3n.de / SocialMediaEnhancer )
 	* Dublin Core
 	* klassische Meta-Tags
+* Fazit
+	* OpenGraph für Social Networks
+	* Schema.org für Suchmaschinen (vorsicht mit Google+)
+	* (optional Microformats für semantisches HTML)
 
 ## Alt
 
