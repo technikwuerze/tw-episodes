@@ -7,7 +7,7 @@
 
 ## Beschreibung
 
-Microformats.org wird 7, Twitter veröffentlicht “Twitter Cards” und Google baut auf Schema.org... Aber was von den vielen Meta und Web-Semantiken braucht man nun wirklich?
+Microformats.org wird sieben, Twitter veröffentlicht die „Twitter Cards“, Google baut auf Schema.org und Facebook auf das Open Graph Protocol. Aber was von den vielen Meta- und Websemantiken braucht man nun wirklich? Wir sagen es euch!
 
 ## Überblick
 
