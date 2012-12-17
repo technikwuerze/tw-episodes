@@ -39,7 +39,10 @@ Microformats.org wird sieben, Twitter veröffentlicht die „Twitter Cards“, G
 	* Schema.org für Suchmaschinen (vorsicht mit Google+)
 	* (optional Microformats für semantisches HTML)
 
-## Alt
+## Lose Ideen (in Form bringen)
+
+* was ich mir zu dem semantik thema dachte: einen kleinen überblick geben, wie was funktioniert... was man einsetzen sollte (eine empfehlung) und was keinen sinn macht.
+* also so in dem stil: microformats sind gut für semantisches html (sollten aber nicht für maschinenlesbare semantik benutzt werden, weil zu fehleranfällig), schema.org für suchmaschinen (microdata) und OGP für abstracts (google+ facebook, twitter)
 
 * Unterschied Websemantiken und Meta-Informationen
 	* Websemantiken
@@ -63,8 +66,3 @@ Microformats.org wird sieben, Twitter veröffentlicht die „Twitter Cards“, G
 		* Für Social-Networks das OpenGraph Protocol
 		* Für Suchmaschinen Schema.org
 		* Für schönes HTML Microformats
-
-## Lose Ideen (in Form bringen)
-
-* was ich mir zu dem semantik thema dachte: einen kleinen überblick geben, wie was funktioniert... was man einsetzen sollte (eine empfehlung) und was keinen sinn macht.
-* also so in dem stil: microformats sind gut für semantisches html (sollten aber nicht für maschinenlesbare semantik benutzt werden, weil zu fehleranfällig), schema.org für suchmaschinen (microdata) und OGP für abstracts (google+ facebook, twitter)
