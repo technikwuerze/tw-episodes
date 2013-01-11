@@ -18,6 +18,8 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr spaß
 
 * Twitter Bootstrap
 * HTML5 Boilerplate
+* Icon Fonts
+  * Font Awesome
 
 ### Divers
 
