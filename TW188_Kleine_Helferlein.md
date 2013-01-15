@@ -25,6 +25,8 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 * Twitter Bootstrap (pro und contra)
 * YAML
 * HTML5 Boilerplate
+* SASS/LESS
+* Coffeescript
 * Icon Fonts
   * Font Awesome
 
@@ -32,8 +34,6 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 
 * http://yeoman.io
 * https://github.com/twitter/bower
-* SASS/LESS
-* Coffeescript
 
 ### Betriebssysteme
 
