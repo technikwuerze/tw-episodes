@@ -30,6 +30,11 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 * Icon Fonts
   * Font Awesome
 
+### Templating Engines
+
+* mustache http://mustache.github.com/
+* Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
+
 ### Divers
 
 * http://yeoman.io
