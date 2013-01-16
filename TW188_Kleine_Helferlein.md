@@ -35,7 +35,7 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 * mustache http://mustache.github.com/
 * Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
 
-### Divers
+### Deployment/Bootstraping Tools
 
 * http://yeoman.io
 * https://github.com/twitter/bower
