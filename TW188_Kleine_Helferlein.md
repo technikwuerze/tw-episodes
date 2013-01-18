@@ -14,38 +14,66 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 
 ## Überblick
 
-### IDE und Editoren
+### Wahl des Betriebssystems
+
+* Vorteil Mac gegenüber Linux/Windows
+* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
+* Vernünftiges Screenshot-Tool für Mac? PC? 
+* Farbpicker
+
+### Welche IDE oder Editoren
 
 * Textmate
 * Emmet (ehemals Zen-Coding)
 * was taugt Sublime Text 2?
 
-### Framewoks u.ä. 
+### Das Projekt aufsetzen
 
-* Twitter Bootstrap (pro und contra)
-* YAML
-* HTML5 Boilerplate
+Viele Projekte haben die gleiche Basis und viele Arbeitsschritte wiederholen sich immer wieder. Diese Tools können helfen, das zu optimieren:
+
+Yeoman: http://yeoman.io
+* init: yeoman init backbone 
+* models erstellen: yeoman init backbone:model modelName
+* build: JS und CSS optimieren, validieren und minifien
+* außerdem: Testsystem, Paket-Management, Task-Management, uvm.
+
+Paketmanagement mit Bower: https://github.com/twitter/bower (ähnlich wie npm oder RubyGems)
+* Pakete installieren: bower install jquery
+* Pakete updaten: bower update jquery-ui
+
+Taskmanagmenet mit Gruntjs: http://gruntjs.com/
+* Immer wiederkehrende Tasks definieren: minify, test, compile (sass/less), lint, ...
+
+### Nutzliche Frameworks
+
+Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, die das Format nicht selbst unterstützt.
+
 * SASS/LESS
 * Coffeescript
-* Icon Fonts
-  * Font Awesome
+
+### Nützliche Libraries
+
+Klassiker:
+
+* CSS Grid-Systeme
+* jQuery
+* YAML
+* usw.
+
+Erwähnenswert:
+
+* Twitter Bootstrap (pro und contra)
+* HTML5 Boilerplate
 
 ### Templating Engines
 
 * mustache http://mustache.github.com/
 * Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
 
-### Deployment/Bootstraping Tools
+Grafiken:
 
-* http://yeoman.io
-* https://github.com/twitter/bower
-
-### Betriebssysteme
-
-* Arbeiten wir alle am Mac?
-* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
-* Vernünftiges Screenshot-Tool für Mac? PC? 
-* Farbpicker
+* Sprites
+* Icon Fonts
 
 ### Browser
 
