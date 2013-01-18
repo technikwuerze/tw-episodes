@@ -76,6 +76,7 @@ Erwähnenswert:
 
 ### Templating Engines
 
+<<<<<<< HEAD
 * "mustache":http://mustache.github.com/
 * "Handlebars":http://t3n.de/news/ansatze-client-side-templating-435518/
 
@@ -91,15 +92,37 @@ Erwähnenswert:
 * Vernünftiges Screenshot-Tool für Mac? PC? 
 * Farbpicker
 
-Grafiken:
+Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
 
-* Sprites
-* Icon Fonts
+* mustache http://mustache.github.com/
+* Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
+
+### Grafiken und Icons
+
+#### Sprites
+
+Pro/Contra
+* Nur eine Grafik
+* besseres Caching
+* geringere Ladezeiten
+
+#### Icon Fonts
+
+Pro/Contra
+* "beliebig" skalierbar
+* über "color:" farblich beliebig anpassbar
+* verläufe auch über CSS möglich
+* nur einfarbig
+
+Tools
+* Font Awesome: http://fortawesome.github.com/Font-Awesome/
+* We Love Icon Fonts: http://weloveiconfonts.com/
 
 ### Browser
 
 * Welche kleinen Helfer haben wir in unseren Browsern?
 * Haben wir einen Arbeitsbrowser? Oder mehrere?
+
 
 ### Hilfeseiten
 
