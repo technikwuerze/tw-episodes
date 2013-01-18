@@ -14,14 +14,40 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 
 ## Überblick
 
-### IDE und Editoren
+### Wahl des Betriebssystems
+
+* Vorteil Mac gegenüber Linux/Windows
+* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
+* Vernünftiges Screenshot-Tool für Mac? PC? 
+* Farbpicker
+
+### Welche IDE oder Editoren
 
 * "Textmate":macromates.com
 * "Emmet":emmet.io (ehemals Zen-Coding)
 * was taugt "Sublime Text 2":www.sublimetext.com?
 * grosse IDEs? Auch für Frontend? Ich höre immer häufiger von "PHPStorm":www.jetbrains.com/phpstorm/ und "WebStorm":http://www.jetbrains.com/webstorm/.
 
-### Framewoks u.ä. 
+### Das Projekt aufsetzen
+
+Viele Projekte haben die gleiche Basis und viele Arbeitsschritte wiederholen sich immer wieder. Diese Tools können helfen, das zu optimieren:
+
+"Yeoman": http://yeoman.io
+* init: yeoman init backbone 
+* models erstellen: yeoman init backbone:model modelName
+* build: JS und CSS optimieren, validieren und minifien
+* außerdem: Testsystem, Paket-Management, Task-Management, uvm.
+
+Paketmanagement mit Bower: https://github.com/twitter/bower (ähnlich wie npm oder RubyGems)
+* Pakete installieren: bower install jquery
+* Pakete updaten: bower update jquery-ui
+
+Taskmanagmenet mit Gruntjs: http://gruntjs.com/
+* Immer wiederkehrende Tasks definieren: minify, test, compile (sass/less), lint, ...
+
+### Nutzliche Frameworks
+
+Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, die das Format nicht selbst unterstützt.
 
 * "Twitter Bootstrap":http://twitter.github.com/bootstrap/ (pro und contra) (zusätzliche Ressourcen)
 * "Foundation":foundation.zurb.com (vor allem die ganzen zusätzlichen Ressourcen)
@@ -33,6 +59,20 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 * "Coffeescript":http://coffeescript.org/
 * Icon Fonts
   * "Font Awesome":http://fortawesome.github.com/Font-Awesome/
+
+### Nützliche Libraries
+
+Klassiker:
+
+* CSS Grid-Systeme
+* jQuery
+* YAML
+* usw.
+
+Erwähnenswert:
+
+* Twitter Bootstrap (pro und contra)
+* HTML5 Boilerplate
 
 ### Templating Engines
 
@@ -50,6 +90,11 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 * Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
 * Vernünftiges Screenshot-Tool für Mac? PC? 
 * Farbpicker
+
+Grafiken:
+
+* Sprites
+* Icon Fonts
 
 ### Browser
 
