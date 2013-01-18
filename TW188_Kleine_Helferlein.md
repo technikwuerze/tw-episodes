@@ -49,16 +49,10 @@ Taskmanagmenet mit Gruntjs: http://gruntjs.com/
 
 Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, die das Format nicht selbst unterstützt.
 
-* "Twitter Bootstrap":http://twitter.github.com/bootstrap/ (pro und contra) (zusätzliche Ressourcen)
-* "Foundation":foundation.zurb.com (vor allem die ganzen zusätzlichen Ressourcen)
-* "YAML":http://yaml.de
-* HTML5 Boilerplate
 * "Sass":http://sass-lang.com/
 * "Compass":compass-style.org
 * "Less":http://lesscss.org/
 * "Coffeescript":http://coffeescript.org/
-* Icon Fonts
-  * "Font Awesome":http://fortawesome.github.com/Font-Awesome/
 
 ### Nützliche Libraries
 
@@ -66,12 +60,13 @@ Klassiker:
 
 * CSS Grid-Systeme
 * jQuery
-* YAML
+* "YAML":http://yaml.de
 * usw.
 
 Erwähnenswert:
 
-* Twitter Bootstrap (pro und contra)
+* "Twitter Bootstrap":http://twitter.github.com/bootstrap/ (pro und contra) (zusätzliche Ressourcen)
+* "Foundation":foundation.zurb.com (vor allem die ganzen zusätzlichen Ressourcen)
 * HTML5 Boilerplate
 
 ### Templating Engines
