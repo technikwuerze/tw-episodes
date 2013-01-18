@@ -71,21 +71,6 @@ Erwähnenswert:
 
 ### Templating Engines
 
-* "mustache":http://mustache.github.com/
-* "Handlebars":http://t3n.de/news/ansatze-client-side-templating-435518/
-
-### Deployment/Bootstraping Tools
-
-* "Yeoman":http://yeoman.io
-* "Bower":https://github.com/twitter/bower
-* "grunt":http://gruntjs.com/
-
-### Betriebssysteme
-
-* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
-* Vernünftiges Screenshot-Tool für Mac? PC? 
-* Farbpicker
-
 Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
 
 * mustache http://mustache.github.com/
