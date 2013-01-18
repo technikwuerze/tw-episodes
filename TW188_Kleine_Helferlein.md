@@ -67,17 +67,25 @@ Erwähnenswert:
 
 ### Templating Engines
 
+Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
+
 * mustache http://mustache.github.com/
 * Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
 
-Grafiken:
+### Grafiken und Icons
 
-* Sprites
-* Icon Fonts
+Klassisch: Sprites
+* Nur eine Grafik
+* besseres Caching
+* geringere Ladezeiten
+
+Neu: Icon Fonts
+* "beliebig" skalierbar
+* über "color:" farblich beliebig anpassbar
+* verläufe auch über CSS möglich
+* nur einfarbig
 
 ### Browser
 
 * Welche kleinen Helfer haben wir in unseren Browsern?
 * Haben wir einen Arbeitsbrowser? Oder mehrere?
-
-
