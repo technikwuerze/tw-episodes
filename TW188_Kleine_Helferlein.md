@@ -92,6 +92,7 @@ Pro/Contra
 Tools
 * Font Awesome: http://fortawesome.github.com/Font-Awesome/
 * We Love Icon Fonts: http://weloveiconfonts.com/
+* Font-Custom: https://github.com/endtwist/fontcustom
 
 ### Browser
 
