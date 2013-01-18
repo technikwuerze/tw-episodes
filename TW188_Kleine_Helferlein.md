@@ -23,26 +23,29 @@ Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß
 
 ### Welche IDE oder Editoren
 
-* "Textmate":macromates.com
-* "Emmet":emmet.io (ehemals Zen-Coding)
-* was taugt "Sublime Text 2":www.sublimetext.com?
-* grosse IDEs? Auch für Frontend? Ich höre immer häufiger von "PHPStorm":www.jetbrains.com/phpstorm/ und "WebStorm":http://www.jetbrains.com/webstorm/.
+* [Textmate](http://macromates.com)
+* [Emmet](http://emmet.io) (ehemals Zen-Coding)
+* was taugt [Sublime Text 2](http://www.sublimetext.com)?
+* grosse IDEs? Auch für Frontend? Ich höre immer häufiger von [PHPStorm](www.jetbrains.com/phpstorm/) und [WebStorm](http://www.jetbrains.com/webstorm/).
 
 ### Das Projekt aufsetzen
 
 Viele Projekte haben die gleiche Basis und viele Arbeitsschritte wiederholen sich immer wieder. Diese Tools können helfen, das zu optimieren:
 
-"Yeoman": http://yeoman.io
+#### [Yeoman](http://yeoman.io)
+
 * init: yeoman init backbone 
 * models erstellen: yeoman init backbone:model modelName
 * build: JS und CSS optimieren, validieren und minifien
 * außerdem: Testsystem, Paket-Management, Task-Management, uvm.
 
-Paketmanagement mit Bower: https://github.com/twitter/bower (ähnlich wie npm oder RubyGems)
+#### Paketmanagement mit [Bower](https://github.com/twitter/bower) (ähnlich wie npm oder RubyGems)
+
 * Pakete installieren: bower install jquery
 * Pakete updaten: bower update jquery-ui
 
-Taskmanagmenet mit Gruntjs: http://gruntjs.com/
+#### Taskmanagmenet mit [Gruntjs](http://gruntjs.com/)
+
 * Immer wiederkehrende Tasks definieren: minify, test, compile (sass/less), lint, ...
 
 ### Nutzliche Frameworks
@@ -63,24 +66,25 @@ Klassiker:
 * "YAML":http://yaml.de
 * usw.
 
-Erwähnenswert:
+#### Erwähnenswert:
 
-* "Twitter Bootstrap":http://twitter.github.com/bootstrap/ (pro und contra) (zusätzliche Ressourcen)
-* "Foundation":foundation.zurb.com (vor allem die ganzen zusätzlichen Ressourcen)
-* HTML5 Boilerplate
+* [Twitter Bootstrap](http://twitter.github.com/bootstrap/) (pro und contra) (zusätzliche Ressourcen)
+* [Foundation](http://foundation.zurb.com) (vor allem die ganzen zusätzlichen Ressourcen)
+* [HTML5 Boilerplate](http://html5boilerplate.com/)
 
 ### Templating Engines
 
 Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
 
-* mustache http://mustache.github.com/
-* Handlebars http://t3n.de/news/ansatze-client-side-templating-435518/
+* [mustache](http://mustache.github.com/)
+* [Handlebars](http://t3n.de/news/ansatze-client-side-templating-435518/)
 
 ### Grafiken und Icons
 
 #### Sprites
 
 Pro/Contra
+
 * Nur eine Grafik
 * besseres Caching
 * geringere Ladezeiten
@@ -88,15 +92,17 @@ Pro/Contra
 #### Icon Fonts
 
 Pro/Contra
+
 * "beliebig" skalierbar
 * über "color:" farblich beliebig anpassbar
 * verläufe auch über CSS möglich
 * nur einfarbig
 
 Tools
-* Font Awesome: http://fortawesome.github.com/Font-Awesome/
-* We Love Icon Fonts: http://weloveiconfonts.com/
-* Font-Custom: https://github.com/endtwist/fontcustom
+
+* [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
+* [We Love Icon Fonts](http://weloveiconfonts.com/)
+* [Font-Custom](https://github.com/endtwist/fontcustom)
 
 ### Browser
 
@@ -106,10 +112,10 @@ Tools
 
 ### Hilfeseiten
 
-* "Can I Use":http://caniuse.com/
-* "HTML5Please":http://html5please.com/
-* "CSS3 Click Chart":http://css3clickchart.com/
-* "rgba für oldIE wandeln":http://beijingyoung.com/articles/rgba-argb-converter/
+* [Can I Use](http://caniuse.com/)
+* [HTML5Please](http://html5please.com/)
+* [CSS3 Click Chart](http://css3clickchart.com/)
+* [rgba für oldIE wandeln](http://beijingyoung.com/articles/rgba-argb-converter/)
 
 ### lokal oder cloud?
 
