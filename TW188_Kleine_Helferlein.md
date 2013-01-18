@@ -76,7 +76,6 @@ Erwähnenswert:
 
 ### Templating Engines
 
-<<<<<<< HEAD
 * "mustache":http://mustache.github.com/
 * "Handlebars":http://t3n.de/news/ansatze-client-side-templating-435518/
 
@@ -136,3 +135,8 @@ Tools
 
 * Arbeiten wir immer mehr in der Cloud?
 * Was passiert auf alle Fälle lokal?
+
+### Tools für RWD
+
+Nutzt jemand spezielle Tools für Responsive Webdesign? Es gibt da einige Bookmarklets.
+Ich nutze nur die neuen Entwicklertools von Firefox und echte Testgeräte. Adobe Edge Inspect habe ich nicht mehr angefasst, seit es nicht mehr Shadow heisst. Zu eingeschränkt. 
