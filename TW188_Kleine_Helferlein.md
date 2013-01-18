@@ -74,16 +74,24 @@ Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
 
 ### Grafiken und Icons
 
-Klassisch: Sprites
+#### Sprites
+
+Pro/Contra
 * Nur eine Grafik
 * besseres Caching
 * geringere Ladezeiten
 
-Neu: Icon Fonts
+#### Icon Fonts
+
+Pro/Contra
 * "beliebig" skalierbar
 * über "color:" farblich beliebig anpassbar
 * verläufe auch über CSS möglich
 * nur einfarbig
+
+Tools
+* Font Awesome: http://fortawesome.github.com/Font-Awesome/
+* We Love Icon Fonts: http://weloveiconfonts.com/
 
 ### Browser
 
