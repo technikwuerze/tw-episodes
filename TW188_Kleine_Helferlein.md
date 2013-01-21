@@ -1,6 +1,6 @@
-# Kleine Helferlein
+# Technikwürze 187 - Die Lieblings-Tools der Frontend-Entwickler
 
-Wir nehmen die Sendung am 17.1. um 20 Uhr auf.
+Wir nehmen die Sendung am 21.1. um 20 Uhr auf.
 
 ## Teilnehmer
 
@@ -10,23 +10,28 @@ Wir nehmen die Sendung am 17.1. um 20 Uhr auf.
 
 ## Beschreibung
 
-Die Frontend-Entwicklung macht dank vieler kleiner "Helferlein" immer mehr Spaß!
+Immer wieder fragen uns die Zuhörer, welche Programme, Editoren und Helferlein wir als Frontend-Entwickler einsetzen. In dieser Sendung geben wir die Antwort!
 
 ## Überblick
 
 ### Wahl des Betriebssystems
 
-* Vorteil Mac gegenüber Linux/Windows
+* Mac, Windows oder Linux?
 * Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
+** [ImageOptim](http://imageoptim.com/)
 * Vernünftiges Screenshot-Tool für Mac? PC? 
 * Farbpicker
 
 ### Welche IDE oder Editoren
 
+Task-spezifische IDEs oder Alleskönner? Sind grosse IDEs, wie NetBeans, PHPStorm oder WebStorm auch auch für Frontend-Entwickler interessant?
+
 * [Textmate](http://macromates.com)
 * [Emmet](http://emmet.io) (ehemals Zen-Coding)
-* was taugt [Sublime Text 2](http://www.sublimetext.com)?
-* grosse IDEs? Auch für Frontend? Ich höre immer häufiger von [PHPStorm](www.jetbrains.com/phpstorm/) und [WebStorm](http://www.jetbrains.com/webstorm/).
+* [NetBeans](http://netbeans.org/)
+* [Sublime Text 2](http://www.sublimetext.com) – Was taugt es?
+* [PHPStorm](www.jetbrains.com/phpstorm/)
+[WebStorm](http://www.jetbrains.com/webstorm/)
 
 ### Das Projekt aufsetzen
 
@@ -107,6 +112,8 @@ Tools
 ### Browser
 
 * Welche kleinen Helfer haben wir in unseren Browsern?
+** [TinyPNG](http://tinypng.org/)
+** [Closure Compiler](http://closure-compiler.appspot.com/home)
 * Haben wir einen Arbeitsbrowser? Oder mehrere?
 
 
