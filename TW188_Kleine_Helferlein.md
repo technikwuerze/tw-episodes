@@ -18,7 +18,7 @@ Immer wieder fragen uns die Zuhörer, welche Programme, Editoren und Helferlein 
 
 * Mac, Windows oder Linux?
 * Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
-** [ImageOptim](http://imageoptim.com/)
+  * [ImageOptim](http://imageoptim.com/)
 * Vernünftiges Screenshot-Tool für Mac? PC? 
 * Farbpicker
 
@@ -57,10 +57,10 @@ Viele Projekte haben die gleiche Basis und viele Arbeitsschritte wiederholen sic
 
 Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, die das Format nicht selbst unterstützt.
 
-* "Sass":http://sass-lang.com/
-* "Compass":compass-style.org
-* "Less":http://lesscss.org/
-* "Coffeescript":http://coffeescript.org/
+* [Sass](http://sass-lang.com/)
+* [Compass](compass-style.org)
+* [Less](http://lesscss.org/)
+* [Coffeescript](http://coffeescript.org/)
 
 ### Nützliche Libraries
 
@@ -68,7 +68,7 @@ Klassiker:
 
 * CSS Grid-Systeme
 * jQuery
-* "YAML":http://yaml.de
+* [YAML](http://yaml.de)
 * usw.
 
 #### Erwähnenswert:
@@ -112,8 +112,8 @@ Tools
 ### Browser
 
 * Welche kleinen Helfer haben wir in unseren Browsern?
-** [TinyPNG](http://tinypng.org/)
-** [Closure Compiler](http://closure-compiler.appspot.com/home)
+  * [TinyPNG](http://tinypng.org/)
+  * [Closure Compiler](http://closure-compiler.appspot.com/home)
 * Haben wir einen Arbeitsbrowser? Oder mehrere?
 
 
