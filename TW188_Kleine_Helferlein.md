@@ -1,4 +1,4 @@
-# Technikwürze 187 - Die Lieblings-Tools der Frontend-Entwickler
+# Technikwürze 188 - Die Lieblings-Tools der Frontend-Entwickler
 
 Wir nehmen die Sendung am 21.1. um 20 Uhr auf.
 
