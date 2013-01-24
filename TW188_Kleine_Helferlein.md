@@ -17,7 +17,7 @@ Immer wieder fragen uns die Zuhörer, welche Programme, Editoren und Helferlein 
 ### Wahl des Betriebssystems
 
 * Mac, Windows oder Linux?
-* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only aber vor allem Mac-first zu erscheinen.
+* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only, zumindest aber Mac-first zu erscheinen.
   * [ImageOptim](http://imageoptim.com/)
 * Vernünftiges Screenshot-Tool für Mac? PC? 
 * Farbpicker
@@ -64,10 +64,10 @@ Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, d
 
 ### Nützliche Libraries
 
-Klassiker:
+#### Klassiker:
 
-* CSS Grid-Systeme
-* jQuery
+* CSS Grid-Systeme wie [960.gs](http://960.gs)
+* [jQuery](http://jquery.com)
 * [YAML](http://yaml.de)
 * usw.
 
@@ -79,7 +79,7 @@ Klassiker:
 
 ### Templating Engines
 
-Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
+Wo macht Templating im Frontend Sinn? Macht es überhaupt Sinn?
 
 * [mustache](http://mustache.github.com/)
 * [Handlebars](http://t3n.de/news/ansatze-client-side-templating-435518/)
@@ -88,7 +88,7 @@ Wo macht templating im Frontend Sinn? Macht es überhaupt Sinn?
 
 #### Sprites
 
-Pro/Contra
+##### Pro/Contra
 
 * Nur eine Grafik
 * besseres Caching
@@ -96,14 +96,14 @@ Pro/Contra
 
 #### Icon Fonts
 
-Pro/Contra
+##### Pro/Contra
 
 * "beliebig" skalierbar
 * über "color:" farblich beliebig anpassbar
 * verläufe auch über CSS möglich
 * nur einfarbig
 
-Tools
+##### Tools
 
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 * [We Love Icon Fonts](http://weloveiconfonts.com/)
@@ -133,3 +133,11 @@ Tools
 
 Nutzt jemand spezielle Tools für Responsive Webdesign? Es gibt da einige Bookmarklets.
 Ich nutze nur die neuen Entwicklertools von Firefox und echte Testgeräte. Adobe Edge Inspect habe ich nicht mehr angefasst, seit es nicht mehr Shadow heisst. Zu eingeschränkt. 
+
+### Austausch mit Anderen bzw. Erstellung von Demos
+
+* [Codepen](http://codepen.io)
+* [JSBin](http://jsbin.com)
+* [JSFiddle](http://jsfiddle.net)
+* [dabblet](http://dabblet.com)
+
