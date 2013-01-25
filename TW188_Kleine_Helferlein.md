@@ -1,10 +1,9 @@
 # Technikwürze 187 - Die Lieblings-Tools der Frontend-Entwickler
 
-Wir nehmen die Sendung am 21.1. um 20 Uhr auf.
+Wir nehmen die Sendung am 24.1. gegen 20 Uhr auf.
 
 ## Teilnehmer
 
-* David Maciejewski
 * Matthias Pfefferle
 * Jens Grochtdreis
 
@@ -17,21 +16,18 @@ Immer wieder fragen uns die Zuhörer, welche Programme, Editoren und Helferlein 
 ### Wahl des Betriebssystems
 
 * Mac, Windows oder Linux?
-* Viele Kleinigkeiten scheinen in letzter Zeit vor allem Mac-only, zumindest aber Mac-first zu erscheinen.
-  * [ImageOptim](http://imageoptim.com/)
 * Vernünftiges Screenshot-Tool für Mac? PC? 
-* Farbpicker
 
 ### Welche IDE oder Editoren
 
 Task-spezifische IDEs oder Alleskönner? Sind grosse IDEs, wie NetBeans, PHPStorm oder WebStorm auch auch für Frontend-Entwickler interessant?
 
 * [Textmate](http://macromates.com)
-* [Emmet](http://emmet.io) (ehemals Zen-Coding)
 * [NetBeans](http://netbeans.org/)
-* [Sublime Text 2](http://www.sublimetext.com) – Was taugt es?
+* [Sublime Text 2](http://www.sublimetext.com) 
 * [PHPStorm](www.jetbrains.com/phpstorm/)
-[WebStorm](http://www.jetbrains.com/webstorm/)
+* [WebStorm](http://www.jetbrains.com/webstorm/)
+* [Emmet](http://emmet.io) (ehemals Zen-Coding)
 
 ### Das Projekt aufsetzen
 
@@ -49,11 +45,11 @@ Viele Projekte haben die gleiche Basis und viele Arbeitsschritte wiederholen sic
 * Pakete installieren: bower install jquery
 * Pakete updaten: bower update jquery-ui
 
-#### Taskmanagmenet mit [Gruntjs](http://gruntjs.com/)
+#### Taskmanagement mit [Grunt.js](http://gruntjs.com/)
 
 * Immer wiederkehrende Tasks definieren: minify, test, compile (sass/less), lint, ...
 
-### Nutzliche Frameworks
+### Nützliche Frameworks
 
 Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, die das Format nicht selbst unterstützt.
 
@@ -64,14 +60,13 @@ Frameworks helfen beim besseren Umgang mit Formaten und bieten Möglichkeiten, d
 
 ### Nützliche Libraries
 
-#### Klassiker:
+#### Klassiker
 
 * CSS Grid-Systeme wie [960.gs](http://960.gs)
 * [jQuery](http://jquery.com)
 * [YAML](http://yaml.de)
-* usw.
 
-#### Erwähnenswert:
+#### Erwähnenswert
 
 * [Twitter Bootstrap](http://twitter.github.com/bootstrap/) (pro und contra) (zusätzliche Ressourcen)
 * [Foundation](http://foundation.zurb.com) (vor allem die ganzen zusätzlichen Ressourcen)
@@ -93,6 +88,7 @@ Wo macht Templating im Frontend Sinn? Macht es überhaupt Sinn?
 * Nur eine Grafik
 * besseres Caching
 * geringere Ladezeiten
+* lassen sich mit Compass sehr einfach erstellen
 
 #### Icon Fonts
 
@@ -101,20 +97,13 @@ Wo macht Templating im Frontend Sinn? Macht es überhaupt Sinn?
 * "beliebig" skalierbar
 * über "color:" farblich beliebig anpassbar
 * verläufe auch über CSS möglich
-* nur einfarbig
+
 
 ##### Tools
 
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 * [We Love Icon Fonts](http://weloveiconfonts.com/)
 * [Font-Custom](https://github.com/endtwist/fontcustom)
-
-### Browser
-
-* Welche kleinen Helfer haben wir in unseren Browsern?
-  * [TinyPNG](http://tinypng.org/)
-  * [Closure Compiler](http://closure-compiler.appspot.com/home)
-* Haben wir einen Arbeitsbrowser? Oder mehrere?
 
 
 ### Hilfeseiten
@@ -123,16 +112,12 @@ Wo macht Templating im Frontend Sinn? Macht es überhaupt Sinn?
 * [HTML5Please](http://html5please.com/)
 * [CSS3 Click Chart](http://css3clickchart.com/)
 * [rgba für oldIE wandeln](http://beijingyoung.com/articles/rgba-argb-converter/)
+* [CSS3files.com](http://www.css3files.com/)
+* [dochub.io](http://dochub.io)
+* [MDN](https://developer.mozilla.org/de/)
+* [MSDN](http://msdn.microsoft.com/de-de/)
+* [Webbplatform.org](http://www.webplatform.org/) 
 
-### lokal oder cloud?
-
-* Arbeiten wir immer mehr in der Cloud?
-* Was passiert auf alle Fälle lokal?
-
-### Tools für RWD
-
-Nutzt jemand spezielle Tools für Responsive Webdesign? Es gibt da einige Bookmarklets.
-Ich nutze nur die neuen Entwicklertools von Firefox und echte Testgeräte. Adobe Edge Inspect habe ich nicht mehr angefasst, seit es nicht mehr Shadow heisst. Zu eingeschränkt. 
 
 ### Austausch mit Anderen bzw. Erstellung von Demos
 
