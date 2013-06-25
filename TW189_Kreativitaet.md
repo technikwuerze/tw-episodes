@@ -17,4 +17,5 @@ Wie bleibt man kreativ? Workshops? Konferenzen? Bücher? Videos?
 ### Onlinekurse, um Techniken zu lernen
 
 * [CodeAcademy](http://www.codecademy.com/)
+* [Learn GitBranching](http://pcottle.github.io/learnGitBranching/index.html)
 
