@@ -1,33 +1,19 @@
-# Technikwürze 188 - Krätivität
+# Technikwürze 189 - grunt play
 
 Sendetermin unbekannt
 
 ## Teilnehmer
 
 * David Maciejewski
-* Matthias Pfefferle
+* ???
 * ???
 
 ## Beschreibung
 
-Wie bleibt man kreativ? Workshops? Konferenzen? Bücher? Videos?
+Wer als Front-end-Developer noch nichts von Grunt Tasks gelesen hat, sollte einschalten. Wir sagen euch, warum dieser Task-Manager eueren Workflow für immer verändern wird.
 
 ## Überblick
 
-### Onlinekurse, um Techniken zu lernen
-
-* [CodeAcademy](http://www.codecademy.com/)
-* [Learn GitBranching](http://pcottle.github.io/learnGitBranching/index.html)
-
-### Code
-
-Der Code anderer kann oft inspirierend sein:
-
-* Github
-* Frameworks
-
-### Social Networks
-
-Wenn man den richtigen Leuten folgt können 'Social Networks' sehr inspirierend sein.
-
-* Twitter (mp)
+* Was ist Grunt?
+* Wie installiert man Grunt?
+* Beispiele von Grunt-Tasks
