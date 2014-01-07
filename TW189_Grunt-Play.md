@@ -1,4 +1,4 @@
-# Technikwürze 189 - grunt play
+# Technikwürze 189 - gulp grunt play
 
 Sendetermin unbekannt
 
@@ -10,10 +10,15 @@ Sendetermin unbekannt
 
 ## Beschreibung
 
-Wer als Front-end-Developer noch nichts von Grunt Tasks gelesen hat, sollte einschalten. Wir sagen euch, warum dieser Task-Manager eueren Workflow für immer verändern wird.
+Task-Runner wie grunt und gulp erleichtern Front-end-Developern die Arbeit erheblich. Wir geben euch eine Einführung und verraten unsere Lieblingstasks, die auch euren Workflow für immer verändern werden.
 
 ## Überblick
 
-* Was ist Grunt?
-* Wie installiert man Grunt?
-* Beispiele von Grunt-Tasks
+* Was ist ein Task-Runner, wofür braucht man das?
+* Was ist grunt, was gulp?
+
+### Grunt
+
+* So installierst du grunt
+* Beispiel-Tasks in grunt
+* Änderungen überwachen mit grunt watch
