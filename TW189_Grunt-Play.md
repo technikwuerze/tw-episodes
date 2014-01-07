@@ -1,4 +1,4 @@
-# Technikwürze 189 - gulp grunt play
+# Technikwürze 189 - gulp, grunt & play
 
 Sendetermin unbekannt
 
@@ -22,3 +22,4 @@ Task-Runner wie grunt und gulp erleichtern Front-end-Developern die Arbeit erheb
 * So installierst du grunt
 * Beispiel-Tasks in grunt
 * Änderungen überwachen mit grunt watch
+* Beispielanwendungen (WordPress oder andere Themes)
