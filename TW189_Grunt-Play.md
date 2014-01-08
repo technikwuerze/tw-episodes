@@ -16,6 +16,7 @@ Task-Runner wie grunt und gulp erleichtern Front-end-Developern die Arbeit erheb
 
 * Was ist ein Task-Runner, wofür braucht man das?
 * Was ist grunt, was gulp?
+* Vergleich von grunt und gulp (Vor und Nachteile)
 
 ### Grunt
 
