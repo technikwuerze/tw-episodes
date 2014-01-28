@@ -24,3 +24,7 @@ Task-Runner wie grunt und gulp erleichtern Front-end-Developern die Arbeit erheb
 * Beispiel-Tasks in grunt
 * Änderungen überwachen mit grunt watch
 * Beispielanwendungen (WordPress oder andere Themes)
+
+### Schnellstarter
+
+* [Grunt verstehen, einrichten und nutzen](http://24ways.org/2013/grunt-is-not-weird-and-hard/)
